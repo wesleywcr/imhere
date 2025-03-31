@@ -20,11 +20,13 @@ export const styles = StyleSheet.create({
   button:{
     width:56,
     height:56,
+    alignItems:'center',
+    justifyContent:'center',
     borderRadius:5,
     backgroundColor:"#E23c44"
   },
   buttonText:{
     color:'#FFF',
-    fontSize:24
+    fontSize:32
   },
 })

@@ -32,11 +32,13 @@ export const styles = StyleSheet.create({
     width:56,
     height:56,
     borderRadius:5,
+    alignItems:'center',
+    justifyContent:'center',
     backgroundColor:"#31cf67"
   },
   buttonText:{
-    color:'#6b6b6b',
-    fontSize:24
+    color:'#fff',
+    fontSize:32
   },
   form:{
      width:'100%',
