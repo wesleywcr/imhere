@@ -4,6 +4,10 @@
 <img alt="author" src="https://img.shields.io/static/v1?label=WesleyRodrigues&message=Author&color=240b36&labelColor=000000">
 </p>
 
+<h1 align="center"  justify-content="space-between">
+ <img src=".github/Screenshot_1743442194.png" height="400">
+</h1>
+
 <br />
 
 
@@ -24,14 +28,10 @@ This project was made using the follow technologies:
 
 # 🏃Getting Started
 
-```sh
-# Clone API
-$ git clone https://github.com/wesleywcr/MedTriage-api
-```
 
 ```sh
 #  Clone Repository
-$ git clone  https://github.com/wesleywcr/MedTriage.git
+$ git clone  https://github.com/wesleywcr/imhere.git
 ```
 
 ```sh
